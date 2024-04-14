@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WardrobeManagement</string>
+    <string-array name="clothes_category">
+        <item>Shirt</item>
+        <item>Pants</item>
+        <item>Dress</item>
+    </string-array>
+</resources>
